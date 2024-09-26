@@ -23,5 +23,7 @@ I enjoy creating pixel art and digital drawings using tools like Aseprite and Ph
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cd3ee44b-47ba-4d10-8764-a5f7e6df4144" alt="OTHERSgif">
 </div>
-[![deviantart](https://github.com/user-attachments/assets/aaf422e9-0375-4a88-8a28-568bceaeaf0b)](https://www.deviantart.com/migliin)
-[![instagram](https://github.com/user-attachments/assets/e3a9f429-e931-4880-8696-e7861d4d25c1)](https://www.instagram.com/migliin/)
+<div align="center">
+  [![deviantart](https://github.com/user-attachments/assets/aaf422e9-0375-4a88-8a28-568bceaeaf0b)](https://www.deviantart.com/migliin)
+  [![instagram](https://github.com/user-attachments/assets/e3a9f429-e931-4880-8696-e7861d4d25c1)](https://www.instagram.com/migliin/)
+</div>
