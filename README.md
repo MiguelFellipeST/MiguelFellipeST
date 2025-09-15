@@ -2,9 +2,6 @@
   <img src="https://github.com/user-attachments/assets/7512271a-c008-4978-a913-eb76be37cc99" alt="introdução perfil">
 </div>
 
-I am a **Computer Engineering student** at IFMG Bambuí. I have a strong interest in programming and digital design, especially in game development. 
-I enjoy creating pixel art and digital drawings using tools like Aseprite and Photoshop.
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f5135afa-5652-4fc3-9b34-0a53b049da92" alt="languages">
   <img src="https://github.com/user-attachments/assets/a70e5edd-d80e-4dda-88f0-0fba742848f3" alt="java">
