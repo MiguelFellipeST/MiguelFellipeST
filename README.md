@@ -19,8 +19,8 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cd3ee44b-47ba-4d10-8764-a5f7e6df4144" alt="OTHERSgif">
-</div>
-
+</div >
+<div align="center">
   <a href="https://www.instagram.com/migliin/">
     <img src="https://github.com/user-attachments/assets/173a388b-2b8f-4e8e-bc0f-525aea25de6f" alt="instagram">
   </a>
