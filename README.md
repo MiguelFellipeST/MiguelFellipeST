@@ -18,10 +18,9 @@
   <img src="https://github.com/user-attachments/assets/a70e5edd-d80e-4dda-88f0-0fba742848f3" alt="java">
   <img src="https://github.com/user-attachments/assets/5c3727d7-36a8-40ef-9a65-87b741195550" alt="PHOTOSHOP">
   <img src="https://github.com/user-attachments/assets/70deb41f-6bf9-4c28-a42e-d99742ed6b7a" alt="html">
-</div>
-
-<div align="left">
+  <img src="https://github.com/user-attachments/assets/da45ee79-6a30-4d8c-aa5e-37cb04c41c63" alt="javascript">
   <img src="https://github.com/user-attachments/assets/cf3f7aef-45bc-411a-afdc-9ac5e715f3e2" alt="MySQL">
+
 </div>
 
 <br>
