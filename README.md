@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7512271a-c008-4978-a913-eb76be37cc99" height="250" alt="introdução perfil">
-  <img src="https://github.com/user-attachments/assets/fb633ee4-4991-4579-a23c-2a6340d191a1" alt="avatarzinho pc" width="250" height="250">
+  <img src="https://github.com/user-attachments/assets/566ba1cb-a4cb-4bf4-a540-b33afc842814" alt="avatarzinho pc" width="250" height="250">
 </div>
+
 
 # About Me
   <h2>
