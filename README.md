@@ -20,7 +20,7 @@
   <img src="https://github.com/user-attachments/assets/70deb41f-6bf9-4c28-a42e-d99742ed6b7a" alt="html">
   <img src="https://github.com/user-attachments/assets/da45ee79-6a30-4d8c-aa5e-37cb04c41c63" alt="javascript">
   <img src="https://github.com/user-attachments/assets/cf3f7aef-45bc-411a-afdc-9ac5e715f3e2" alt="MySQL">
-
+  <img src="https://github.com/user-attachments/assets/7803c48f-0ff7-4726-92f7-d69eed617bc8" alt="Python">
 </div>
 
 <br>
