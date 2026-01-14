@@ -22,6 +22,7 @@
   <img src="https://github.com/user-attachments/assets/da45ee79-6a30-4d8c-aa5e-37cb04c41c63" alt="javascript">
   <img src="https://github.com/user-attachments/assets/cf3f7aef-45bc-411a-afdc-9ac5e715f3e2" alt="MySQL">
   <img src="https://github.com/user-attachments/assets/7803c48f-0ff7-4726-92f7-d69eed617bc8" alt="Python">
+  <img src="https://github.com/user-attachments/assets/8d3a1230-d58c-4bbf-b9d9-1d8fd15f2a05" alt="Css">
 </div>
 
 <br>
@@ -31,7 +32,13 @@
 </div >
 
 <div align="center">
-  <a href="https://www.instagram.com/migliin/">
-    <img src="https://github.com/user-attachments/assets/173a388b-2b8f-4e8e-bc0f-525aea25de6f" alt="instagram">
+  <a href="https://www.linkedin.com/in/miguel-teixeira-4ba25826a/">
+    <img src="https://github.com/user-attachments/assets/f9234b53-412a-456b-b6b6-451cf0fd46af" alt="linkedin">
+    <a href="https://www.linkedin.com/in/miguel-teixeira-4ba25826a/">
+    <img src="https://github.com/user-attachments/assets/5cef4bfb-7038-476d-9597-e28c72eca268" alt="medium">
   </a>
 </div>
+
+
+
+
