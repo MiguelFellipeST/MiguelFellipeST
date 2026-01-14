@@ -34,7 +34,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/miguel-teixeira-4ba25826a/">
     <img src="https://github.com/user-attachments/assets/f9234b53-412a-456b-b6b6-451cf0fd46af" alt="linkedin">
-    <a href="https://www.linkedin.com/in/miguel-teixeira-4ba25826a/">
+    <a href="https://medium.com/@miguelfellipe2003">
     <img src="https://github.com/user-attachments/assets/5cef4bfb-7038-476d-9597-e28c72eca268" alt="medium">
   </a>
 </div>
